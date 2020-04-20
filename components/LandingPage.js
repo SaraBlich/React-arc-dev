@@ -250,6 +250,7 @@ export default function LandingPage(){
                 </Grid>
                 
             </Grid>
+         {/* -------------------Revolution card-------------------- */}
             <Grid item>
                 <Grid container style = {{height: "100em", marginTop: "10em"}} alignItems = "center" justify = "center">
                 <Card className = {classes.revolutionCard}>
